@@ -1,4 +1,4 @@
-# Email-Analysis-CTF-Challenge-2
+# Email Analysis CTF Challenge 2
 
 <h2>Description</h2>
 In this email analysis challenge 2, I am a SOC Analyst at Global LOgistics and I've been tasked to investigate a user's password reset email for dropbox to see if it's legitimate or not. 
